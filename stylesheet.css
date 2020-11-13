@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	color:blue;
+	font-family: 'Goldman';
+}
+li{
+	list-style: none;
+}
+.done {
+  text-decoration: line-through;
+}
+button{
+  margin: 5px;
+}
